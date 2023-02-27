@@ -1,4 +1,4 @@
 package com.example.LibraryManagementSystem.Services;
 
-public interface TransactionService {
+public class TransactionService {
 }
